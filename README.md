@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KrmXEnVhLnnffS1N3CBEoo2vNoaD4d54/view?usp=drive_link](https://drive.google.com/file/d/1KrmXEnVhLnnffS1N3CBEoo2vNoaD4d54/view?usp=drive_link)
 
-- ⚡ Fun fact **I can sleep well during summers without AC and Cooler**
+- ⚡ Fun fact **I hate tutorial hell and research on my own to build stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
