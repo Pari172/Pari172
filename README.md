@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pari172" alt="pari172" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS,Tailwind-CSS**
+- 🌱 I’m exploring Frontend World **ReactJS,Tailwind-CSS**
 
 - 💬 Ask me about **react,javascript,TailwindCSS,NodeJs**
 
